@@ -41,7 +41,7 @@ student_recommendation_analyzer/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-recommendation-analyzer.git
+   git clone https://github.com/Nerd-coderZero/Student_Recommendation_Analyzer.git
    cd student-recommendation-analyzer
    ```
 
