@@ -1,0 +1,15 @@
+contourpy
+cycler
+fonttools
+kiwisolver
+matplotlib
+numpy
+packaging
+pandas
+pillow
+pyparsing
+python-dateutil==2.9.0.post0
+pytz
+seaborn
+six
+tzdata
